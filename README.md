@@ -5,6 +5,8 @@
 
 **IcticShortcuts** adds essential shortcuts to the Unity Editor's **File** menu to boost productivity and fix common IDE or workflow issues — no tedious clicking required!
 
+![image](https://github.com/user-attachments/assets/aee38216-fbf8-4a39-947c-4b5fac6975ec)
+
 ---
 
 ## ✨ Features
